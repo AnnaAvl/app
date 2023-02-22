@@ -4,4 +4,3 @@ map.jpg%%15-02-2023 21:26
 messages.txt%%15-02-2023 21:26
 stops.txt%%15-02-2023 21:26
 timetable.txt%%15-02-2023 21:26
-new
