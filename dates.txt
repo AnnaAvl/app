@@ -1,6 +1,6 @@
-costs.txt%%15-02-2023 21:26
-home.txt%%21-02-2023 11:54
-map.jpg%%15-02-2023 21:26
-messages.txt%%15-02-2023 21:26
-stops.txt%%15-02-2023 21:26
-timetable.txt%%15-02-2023 21:26
+costs.txt%%15-02-2023
+home.txt%%21-02-2023
+map.jpg%%15-02-2023
+messages.txt%%15-02-2023
+stops.txt%%15-02-2023
+timetable.txt%%15-02-2023
