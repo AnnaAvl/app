@@ -1,6 +1,0 @@
-costs.txt%%1
-home.txt%%1
-map.jpg%%1
-messages.txt%%2
-stops.txt%%1
-timetable.txt%%1
